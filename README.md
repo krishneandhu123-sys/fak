@@ -10,7 +10,7 @@
 </nav>
 
 <section>
-    <h1>myself aleena K</h1>
+    <h1>myself Krishneandhu P K</h1>
     <p>I am passionate about technology, coding, and entrepreneurship.</p>
 </section>
 
